@@ -1,9 +1,9 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+title: 'Software Engineer Co-op'
+company: 'United Lifts'
+location: 'Melbourne, AU'
+range: 'September 2020 - Present'
 url: 'https://www.apple.com/music/'
 ---
 

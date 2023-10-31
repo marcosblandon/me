@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="http://localhost:8000/#projects"
       target="_blank"
       rel="noreferrer">
       See what I'm doing!

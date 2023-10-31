@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
+title: 'FunTime'
+cover: './ts.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Flutter
+  - Firebase
+  - JavaScript
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Simple timesheet App to track time spent in different tasks. Developed this application as I learn Dart and Flutter
